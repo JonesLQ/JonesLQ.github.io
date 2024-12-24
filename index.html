@@ -1,14 +1,86 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>我的个人主页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        .profile {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .profile img {
+            border-radius: 50%;
+            width: 150px;
+            margin-right: 20px;
+        }
+        .links a {
+            color: #0056b3;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+        .research-item {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        .research-item img {
+            width: 150px;
+            height: auto;
+            margin-right: 20px;
+        }
+        .research-item div {
+            flex: 1;
+        }
+    </style>
 </head>
 <body>
     <h1>欢迎来到我的个人主页</h1>
-    <p>这是我的一些信息：</p>
-    <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=avf02OoAAAAJ&sortby=pubdate">Google Scholar</a><br>
-    <a href="https://www.researchgate.net/profile/Qiong-Lin-6">ResearchGate</a><br>
-    <a href="https://www.youtube.com/@%E6%9E%97%E7%90%BC-h2s">YouTube</a><br>
-    <iframe width="560" height="315" src="https://www." frameborder="0" allow="accelerometer; autoplay; clipboard - changes; encrypted - media; gyroscope; picture - in - picture" allowfullscreen></iframe>
+
+    <div class="profile">
+        <img src="profile.jpg" alt="我的照片">
+        <div>
+            <p>我是 [你的名字]，目前是 [你的身份，如博士生]。我的研究方向包括 [你的研究方向]。</p>
+            <div class="links">
+                <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=avf02OoAAAAJ&sortby=pubdate" target="_blank">Google Scholar</a>
+                <a href="https://www.researchgate.net/profile/Qiong-Lin-6" target="_blank">ResearchGate</a>
+                <a href="https://www.youtube.com/@%E6%9E%97%E7%90%BC-h2s" target="_blank">YouTube</a>
+            </div>
+        </div>
+    </div>
+
+    <h2>精选研究</h2>
+    <div class="research-item">
+        <img src="research1.jpg" alt="研究图片1">
+        <div>
+            <h3>研究标题1</h3>
+            <p>简要描述这项研究的内容。你可以介绍研究的目标、方法和成果。</p>
+            <a href="https://project-link.com" target="_blank">项目页面</a>
+            <a href="https://code-link.com" target="_blank">代码</a>
+            <a href="https://paper-link.com" target="_blank">论文</a>
+        </div>
+    </div>
+    <div class="research-item">
+        <img src="research2.jpg" alt="研究图片2">
+        <div>
+            <h3>研究标题2</h3>
+            <p>简要描述这项研究的内容。你可以介绍研究的目标、方法和成果。</p>
+            <a href="https://project-link.com" target="_blank">项目页面</a>
+            <a href="https://code-link.com" target="_blank">代码</a>
+            <a href="https://paper-link.com" target="_blank">论文</a>
+        </div>
+    </div>
 </body>
 </html>
