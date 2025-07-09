@@ -22,7 +22,7 @@ repository               : "JonesLQ/JonesLQ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "linqiong.png"
   name             : "林琼 (Lin Qiong)"
   pronouns         : # example: "she/her"  
   bio              : "机器人视觉感知与控制技术国家工程研究中心"
