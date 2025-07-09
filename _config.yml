@@ -29,7 +29,7 @@ author:
   location         : "中国·长沙"
   employer         : "湖南大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "linqiong@hnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : https://www.youtube.com/@%E6%9E%97%E7%90%BC-h2s
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
