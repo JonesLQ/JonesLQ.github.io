@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : https://www.youtube.com/@%E6%9E%97%E7%90%BC-h2s
+  youtube          : https://www.youtube.com/@林琼-h2s
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
