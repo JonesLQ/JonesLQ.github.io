@@ -1,11 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "# 👋 你好，欢迎来到我的主页！"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+## 📌 个人简介
+======
+我是 **林琼（Qiong Lin）**，目前是湖南大学电气与信息工程学院以及[机器人视觉感知与控制技术国家工程研究中心](http://robot.hnu.edu.cn/index.htm)的博士研究生，师从[缪志强教授](https://eeit.hnu.edu.cn/info/1544/5187.htm)与[王耀南教授](https://eeit.hnu.edu.cn/info/1277/4490.htm)。攻读博士学位期间，获得国家公派留学（CSC）资格，与澳大利亚阿德莱德大学先进无人系统实验室的[石碰教授](https://www.adelaide.edu.au/directory/peng.shi)合作。专注于机器人控制、多无人系统的协同与安全控制。我热衷于将控制理论与人工智能相结合，致力于让智能系统在复杂环境中更加安全、可靠地运行。
+
+## 📚 代表论文
+======
+
+## 个人链接：
+------
+- [Google 学术](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=avf02OoAAAAJ&sortby=pubdate)
+- [GitHub 代码库](https://github.com/JonesLQ)
+- [YouTube 频道](https://www.youtube.com/@%E6%9E%97%E7%90%BC-h2s)
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
