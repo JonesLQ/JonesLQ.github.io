@@ -24,13 +24,13 @@ redirect_from:
 
 - **Qiong Lin**, Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *GPBF: A Gaussian Process Driven Adaptive Barrier Functions for Safety-Critical Quadrotor Control.* IEEE Transactions on Aerospace and Electronic Systems, 2025. *(under review)*  
 
-- **Qiong Lin**,  Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *Collision-Free Coordination for Quadrotors based on Differential Flatness*. IEEE Transactions on Industrial Electronics, 2025. [PDF](DOI: 10.1109/TIE.2025.3579101) ｜ [Video](https://youtu.be/2sLnGQMI2SI)
+- **Qiong Lin**,  Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *Collision-Free Coordination for Quadrotors based on Differential Flatness*. IEEE Transactions on Industrial Electronics, 2025. [PDF](DOI:10.1109/TIE.2025.3579101) ｜ [Video](https://youtu.be/2sLnGQMI2SI)
   
-- **Qiong Lin**, Zhiqiang Miao, Yanjie Chen, Xiangke Wang, Wei He, Yaonan Wang. *Bearing-only Formation Maneuvering of Quadrotors Over Directed Acyclic Graphs.* IEEE Transactions on Intelligent Vehicles, 2024. [PDF](DOI: 10.1109/TIV.2024.3382104) ｜ [Video](https://www.youtube.com/watch?v=945ERhzP2Ow)
+- **Qiong Lin**, Zhiqiang Miao, Yanjie Chen, Xiangke Wang, Wei He, Yaonan Wang. *Bearing-only Formation Maneuvering of Quadrotors Over Directed Acyclic Graphs.* IEEE Transactions on Intelligent Vehicles, 2024. [PDF](DOI:10.1109/TIV.2024.3382104) ｜ [Video](https://www.youtube.com/watch?v=945ERhzP2Ow)
   
-- **Qiong Lin**, Zhiqiang Miao, Yaonan Wang, Zheng‐Guang Wu, Wei He and Rafael Fierro. *Differentiator-based Bearing-only Formation Control of Quadrotors.* International Journal of Robust and Nonlinear Control, 33(17), 10606-10624, 2023. [PDF](DOI: 10.1002/rnc.6904) ｜ [Video](https://www.youtube.com/watch?v=XdjRzKqZUwg)
+- **Qiong Lin**, Zhiqiang Miao, Yaonan Wang, Zheng‐Guang Wu, Wei He and Rafael Fierro. *Differentiator-based Bearing-only Formation Control of Quadrotors.* International Journal of Robust and Nonlinear Control, 33(17), 10606-10624, 2023. [PDF](DOI:10.1002/rnc.6904) ｜ [Video](https://www.youtube.com/watch?v=XdjRzKqZUwg)
 
-- **Qiong Lin**, Yingjiang Zhou, Guo-Ping Jiang, et al. *Prescribed-time Containment Control Based on Distributed Observer for Multi-agent Systems.* Neurocomputing, vol. 431, pp. 69-77, 2021. [PDF](DOI:10.1016/j.neucom.2020.12.030)
+- **Qiong Lin**, Yingjiang Zhou, Guo-Ping Jiang, et al. *Prescribed-time Containment Control Based on Distributed Observer for Multi-agent Systems.* Neurocomputing, vol. 431, pp. 69-77, 2021. [PDF](DOI:10.1016/j.neucom.2020.12.030)
 
 - **Qiong Lin**, Zhiqiang Miao, Yaonan Wang, *Velocity-free Formation Control for Quadrotors Using HOSM Differentiator.* 2023 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2023), Datong, China, pp. 554-559, 2023. [PDF](DOI:10.1109/RCAR58764.2023.10249984)
 
