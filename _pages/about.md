@@ -26,7 +26,7 @@ redirect_from:
 
 - **Qiong Lin**, Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *GPBF: A Gaussian Process Driven Adaptive Barrier Functions for Safety-Critical Quadrotor Control.* IEEE Transactions on Aerospace and Electronic Systems, 2025. *(under review)*  
 
-- **Qiong Lin**,  Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *Collision-Free Coordination for Quadrotors based on Differential Flatness*. IEEE Transactions on Industrial Electronics, 2025. [PDF](DOI:10.1109/TIE.2025.3579101) ｜ [Video](https://youtu.be/2sLnGQMI2SI)
+- **Qiong Lin**,  Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *Collision-Free Coordination for Quadrotors based on Differential Flatness*. IEEE Transactions on Industrial Electronics, 2025. [PDF](10.1109/TIE.2025.3579101) ｜ [Video](https://youtu.be/2sLnGQMI2SI)
   
 - **Qiong Lin**, Zhiqiang Miao, Yanjie Chen, Xiangke Wang, Wei He, Yaonan Wang. *Bearing-only Formation Maneuvering of Quadrotors Over Directed Acyclic Graphs.* IEEE Transactions on Intelligent Vehicles, 2024. [PDF](DOI:10.1109/TIV.2024.3382104) ｜ [Video](https://www.youtube.com/watch?v=945ERhzP2Ow)
   
