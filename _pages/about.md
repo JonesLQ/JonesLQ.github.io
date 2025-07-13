@@ -16,7 +16,9 @@ redirect_from:
 ## 🤖研究兴趣
 自主系统的安全控制与集群智能，主要面向多无人机/无人车的协同规划与控制、安全控制与学习等
 
-![Overview](/images/Overview.png)
+
+<img src="/images/Overview.png" alt="Overview" width="70%">
+
 
 
 ## 📚 代表论文
