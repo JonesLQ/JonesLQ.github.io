@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "# 👋 你好，欢迎来到我的主页！"
+title: "# 👋 你好，欢迎来到琼的主页！"
 author_profile: true
 redirect_from: 
   - /about/
