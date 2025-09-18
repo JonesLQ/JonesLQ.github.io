@@ -14,7 +14,7 @@ redirect_from:
 
 
 ## 🤖研究兴趣
-自主系统的安全控制与集群智能，主要面向多无人机/无人车的协同规划与控制、安全控制与学习等
+自主系统的安全控制与集群智能，主要面向空中机器人集群、跨域无人系统的协同规划与控制、安全控制与学习等
 
 
 <img src="/images/Overview.png" alt="Overview" width="50%">
@@ -24,11 +24,11 @@ redirect_from:
 ## 📚 代表论文
 ------
 
-- **Qiong Lin**, Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *GPBF: A Gaussian Process-Driven Adaptive Barrier Functions for Safety-Critical Control of Quadrotors.* IEEE Transactions on Aerospace and Electronic Systems, 2025. *(under review)*  
+- **Qiong Lin**, Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *GPBF: A Gaussian Process-Driven Adaptive Barrier Functions for Safety-Critical Control of Quadrotors.* IEEE Transactions on Aerospace and Electronic Systems, 2025. Doi: 10.1109/TAES.2025.3609755. [PDF](https://ieeexplore.ieee.org/document/11163607) ｜ [Video](https://youtu.be/EPruW1Rml8M)   
 
 - **Qiong Lin**,  Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *Collision-Free Coordination for Quadrotors based on Differential Flatness*. IEEE Transactions on Industrial Electronics, 2025. [PDF](https://ieeexplore.ieee.org/document/11078318) ｜ [Video](https://youtu.be/2sLnGQMI2SI)
   
-- **Qiong Lin**, Zhiqiang Miao, Yanjie Chen, Xiangke Wang, Wei He, Yaonan Wang. *Bearing-only Formation Maneuvering of Quadrotors Over Directed Acyclic Graphs.* IEEE Transactions on Intelligent Vehicles, 2024. [PDF](https://ieeexplore.ieee.org/document/10480612) ｜ [Video](https://www.youtube.com/watch?v=945ERhzP2Ow)
+- **Qiong Lin**, Zhiqiang Miao, Yanjie Chen, Xiangke Wang, Wei He, Yaonan Wang. *Bearing-only Formation Maneuvering of Quadrotors Over Directed Acyclic Graphs.* IEEE Transactions on Intelligent Vehicles, 2025,10(4):2653-2664. [PDF](https://ieeexplore.ieee.org/document/10480612) ｜ [Video](https://www.youtube.com/watch?v=945ERhzP2Ow)
   
 - **Qiong Lin**, Zhiqiang Miao, Yaonan Wang, Zheng‐Guang Wu, Wei He and Rafael Fierro. *Differentiator-based Bearing-only Formation Control of Quadrotors.* International Journal of Robust and Nonlinear Control, 33(17), 10606-10624, 2023. [PDF](https://onlinelibrary.wiley.com/doi/10.1002/rnc.6904) ｜ [Video](https://www.youtube.com/watch?v=XdjRzKqZUwg)
 
