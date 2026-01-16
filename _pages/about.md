@@ -31,9 +31,9 @@ Safety-critical control and learning for multi-robot systems, with applications 
 ## 📚 Selected Publications
 ------
 
-- **Qiong Lin**, Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *GPBF: A Gaussian Process-Driven Adaptive Barrier Functions for Safety-Critical Control of Quadrotors.* IEEE Transactions on Aerospace and Electronic Systems, 2025. Doi: 10.1109/TAES.2025.3609755. [PDF](https://ieeexplore.ieee.org/document/11163607) ｜ [Video](https://youtu.be/EPruW1Rml8M)   
+- **Qiong Lin**, Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *GPBF: A Gaussian Process-Driven Adaptive Barrier Functions for Safety-Critical Control of Quadrotors.* IEEE Transactions on Aerospace and Electronic Systems, 2025,61(6):18234-18247. Doi: 10.1109/TAES.2025.3609755. [PDF](https://ieeexplore.ieee.org/document/11163607) ｜ [Video](https://youtu.be/EPruW1Rml8M)   
 
-- **Qiong Lin**,  Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *Collision-Free Coordination for Quadrotors based on Differential Flatness*. IEEE Transactions on Industrial Electronics, 2025. [PDF](https://ieeexplore.ieee.org/document/11078318) ｜ [Video](https://youtu.be/2sLnGQMI2SI)
+- **Qiong Lin**,  Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *Collision-Free Coordination for Quadrotors based on Differential Flatness*. IEEE Transactions on Industrial Electronics, 2025, 72(12):13729-13740. [PDF](https://ieeexplore.ieee.org/document/11078318) ｜ [Video](https://youtu.be/2sLnGQMI2SI)
   
 - **Qiong Lin**, Zhiqiang Miao, Yanjie Chen, Xiangke Wang, Wei He, Yaonan Wang. *Bearing-only Formation Maneuvering of Quadrotors Over Directed Acyclic Graphs.* IEEE Transactions on Intelligent Vehicles, 2025,10(4):2653-2664. [PDF](https://ieeexplore.ieee.org/document/10480612) ｜ [Video](https://www.youtube.com/watch?v=945ERhzP2Ow)
   
