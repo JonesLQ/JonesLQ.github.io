@@ -19,7 +19,7 @@ During my Ph.D., I was awarded the China Scholarship Council (CSC) scholarship a
 My research focuses on robotic control and the cooperative and safety-critical control of multi-robot systems, with the goal of enabling intelligent systems to operate more safely and reliably in complex environments.
 
 
-## 🤖Research Interests
+## 🤖 Research Interests
 
 Safety-critical control and learning for multi-robot systems, with applications to UAV swarms and cross-domain robots.
 
