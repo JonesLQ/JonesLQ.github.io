@@ -25,18 +25,18 @@ author:
   avatar           : "linqiong.png"
   name             : "林琼 (Lin Qiong)"
   pronouns         : # example: "she/her"  
-  bio              : "机器人视觉感知与控制技术国家工程研究中心"
-  location         : "中国·长沙"
-  employer         : "湖南大学"
+  bio              : "南京邮电大学（自动化学院）教师"
+  location         : "中国·南京"
+  employer         : "南京邮电大学(NJUPT)"
   uri              : # URL
-  email            : "linqiong@hnu.edu.cn" 
+  email            : "linqiong@njupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=avf02OoAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6055-1619"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Qiong-Lin-6"
