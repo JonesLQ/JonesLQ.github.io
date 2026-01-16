@@ -12,16 +12,22 @@ redirect_from:
 ------
 我是 **林琼（Qiong Lin）**，目前是湖南大学电气与信息工程学院以及[机器人视觉感知与控制技术国家工程研究中心](http://robot.hnu.edu.cn/index.htm)的博士研究生，师从[缪志强教授](https://eeit.hnu.edu.cn/info/1544/5187.htm)与[王耀南教授](https://eeit.hnu.edu.cn/info/1277/4490.htm)。攻读博士学位期间，获得国家公派留学（CSC）资格，与澳大利亚阿德莱德大学先进无人系统实验室的[石碰教授](https://www.adelaide.edu.au/directory/peng.shi)合作。专注于机器人控制、多无人系统的协同与安全控制，致力于让智能系统在复杂环境中更加安全、可靠地运行。
 
+I am currently a faculty member at Nanjing University of Posts and Telecommunications (NJUPT), where I conduct research on safety-critical control and learning for autonomous robotic systems. 
+I received my Ph.D. from the College of Artificial Intelligence and Robotics, Hunan University, and the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/index.htm), under the supervision of Prof. [Zhiqiang Miao](https://eeit.hnu.edu.cn/info/1544/5187.htm) and Prof.[Yaonan Wang](https://eeit.hnu.edu.cn/info/1277/4490.htm).
+During my Ph.D., I was awarded the China Scholarship Council (CSC) scholarship and conducted joint research with Prof. [Peng Shi](https://www.adelaide.edu.au/directory/peng.shi) at the Advanced Autonomous Systems Laboratory, Adelaide University, Australia. 
+My research focuses on robotic control and the cooperative and safety-critical control of multi-robot systems, with the goal of enabling intelligent systems to operate more safely and reliably in complex environments.
 
-## 🤖研究兴趣
-自主系统的安全控制与集群智能，主要面向空中机器人集群、跨域无人系统的协同规划与控制、安全控制与学习等
+
+## 🤖Research Interests
+
+Safety-critical control and learning for multi-robot systems, with applications to UAV swarms and cross-domain robots.
 
 
 <img src="/images/Overview.png" alt="Overview" width="50%">
 
 
 
-## 📚 代表论文
+## 📚 Recent Publications
 ------
 
 - **Qiong Lin**, Zhiqiang Miao, Xiangke Wang, Wei He, Yaonan Wang, Peng Shi. *GPBF: A Gaussian Process-Driven Adaptive Barrier Functions for Safety-Critical Control of Quadrotors.* IEEE Transactions on Aerospace and Electronic Systems, 2025. Doi: 10.1109/TAES.2025.3609755. [PDF](https://ieeexplore.ieee.org/document/11163607) ｜ [Video](https://youtu.be/EPruW1Rml8M)   
