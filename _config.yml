@@ -41,6 +41,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Qiong-Lin-6"
   scopus           : # URL
+  youtube          : "https://www.youtube.com/@林琼-h2s"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -74,7 +75,6 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@%E6%9E%97%E7%90%BC-h2s"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
